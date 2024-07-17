@@ -6,4 +6,4 @@ This repo is a continuation of drowsiness detection for the DMS system. After de
 
 I have created a video that explains part of the project for the validation of the DMS system using YOLOv8.
 
-[![My Video](Verf_1.JPG)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/LO1pQIdg2_M))
+[![My Video](Verf_1.JPG)](https://youtu.be/LO1pQIdg2_M))
